@@ -16,3 +16,6 @@
 
       Connect-ExchangeOnline -UserPrincipalName admin@exoip.com
     
+ ##   Start Archive
+ 
+     start-managedfolderassistant -Identity UserPrinciple0
